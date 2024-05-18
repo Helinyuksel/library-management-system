@@ -2,9 +2,16 @@ Library Management System
 This project simulates a library management system. Users can select and rent books, while admins can add books or block users.
 
 Installation
-Clone this repository:
 git clone https://github.com/yourusername/repositoryname.git
 cd repositoryname
+
+## Example Usage
+## User Mode
+Press 0 for User and 9 for Admin: 0
+
+## Example Usage
+## User Mode
+Press 0 for User and 9 for Admin: 0
 
 ## Example Usage
 ## User Mode
